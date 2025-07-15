@@ -1,0 +1,1 @@
+Quasar is an open-source Vue. js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once
