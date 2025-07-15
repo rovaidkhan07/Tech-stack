@@ -1,0 +1,1 @@
+A predictable state container for JavaScript applications. It helps manage application state in a centralized and organized way, making it easier to maintain and debug, especially in complex applications. 
