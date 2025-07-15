@@ -1,0 +1,1 @@
+A NoSQL cloud database from Firebase and Google Cloud. It provides a flexible, scalable, and real-time database solution for mobile, web, and server development, storing data in a hierarchical collection of documents. 
