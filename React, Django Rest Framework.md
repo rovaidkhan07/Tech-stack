@@ -1,0 +1,2 @@
+React is a JavaScript library for building user interfaces, particularly single-page applications. It focuses on creating reusable UI components and efficiently updating the display using a virtual DOM.
+Django REST Framework (DRF) is a powerful and flexible toolkit for building Web APIs with Django, a Python web framework. It simplifies the creation of RESTful APIs by providing tools for serialization (converting data to formats like JSON), authentication, authorization, and more, integrating seamlessly with Django's core features.
