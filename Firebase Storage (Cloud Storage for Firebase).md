@@ -1,0 +1,1 @@
+An object storage service for storing and serving user-generated content like images and videos. It integrates with Google Cloud Storage and offers secure file uploads and downloads for Firebase applications.
