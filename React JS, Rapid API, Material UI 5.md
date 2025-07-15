@@ -1,0 +1,1 @@
+React Material UI combines powerful customization, responsiveness, fast loading, theming, backend integration, and seamless upgrades. The key features of Material UI are: Highly customizable: The templates provided are easily customizable and require very less coding to make changes to existing templates.
