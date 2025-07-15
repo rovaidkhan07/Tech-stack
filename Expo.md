@@ -1,0 +1,1 @@
+A framework and platform for building universal React applications. It simplifies the development workflow for React Native by providing pre-built tools, libraries, and services, including a development server, over-the-air updates, and easy access to native device features.
